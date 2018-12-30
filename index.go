@@ -1,13 +1,14 @@
 package main
-//this shit look's like js and java D: 
-import "fmt"
+
+//this shit look's like js and java D:
+
 //but it comes from C++ dude
 // D: f*ckin christ dhag!
 //.....................
 
-
 //variables  var  kyo int
 
+/*
 
 func main(){
 
@@ -20,7 +21,7 @@ func main(){
 
 	kay, numero := "kay" ,30
 	kay,numero = "kay 2", 31
-	
+
 	fmt.Println(kay, numero, "\n");
 	kay = "de prueba"
 	fmt.Println("texto "+kay);
@@ -28,7 +29,7 @@ func main(){
 	//llamando función
 	fmt.Println(add(42, 13))
 	fmt.Println(tryme(rzx))
-	
+
 }
 
 
@@ -38,5 +39,7 @@ func add(x int, y int) int {
 }
 
 func tryme(rz string) string {
-	return "rz vale: "+rz 
+	return "rz vale: "+rz
 }
+
+*/
